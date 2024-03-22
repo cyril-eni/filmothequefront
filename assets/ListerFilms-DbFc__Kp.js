@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as t}from"./index-BCPhdK3D.js";const r={};function s(c,n){return t(),o("h1",null,"Ce composant doit lister les films")}const i=e(r,[["render",s]]);export{i as default};

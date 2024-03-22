@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as e,o as r}from"./index-BCPhdK3D.js";const c={};function o(n,a){return r(),e("h1",null,"Ce composant doit gérer les Participants")}const _=t(c,[["render",o]]);export{_ as default};
