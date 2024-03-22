@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,o as r}from"./index-BiGiKjVU.js";const n={};function o(t,a){return r(),c("h1",null,"Bienvenue sur la page d'Acceuil")}const _=e(n,[["render",o]]);export{_ as default};
